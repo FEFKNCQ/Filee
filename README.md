@@ -1,6 +1,6 @@
-> **分支声明 / Fork notice**
+> **分支声明**
 > 本仓库是 [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) 的 fork（分支），作为原作者删除后的镜像备份。
-> This repository is a fork of [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee), kept as a mirror backup.
+
 > 版权归原作者所有；源代码沿用原始许可证，原始版权与许可声明均完整保留、未作修改。
 
 > **🌐 国内 / 网络不佳时的下载备选（网盘镜像）**
@@ -8,7 +8,7 @@
 > **夸克网盘**：https://pan.quark.cn/s/8be3d7e03038 （微信扫码或点链接即可，含完整 release 文件）
 >
 > 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/Filee/releases) 或 [原项目 Releases](https://github.com/KnifeLemon/Filee/releases) 下载。
-<img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码">
 
 
 
@@ -17,7 +17,7 @@
 > **夸克网盘**：https://pan.quark.cn/s/8be3d7e03038 （微信扫码或点链接即可，含完整 release 文件）
 >
 > 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/Filee/releases) 或 [原项目 Releases](https://github.com/KnifeLemon/Filee/releases) 下载。
-<img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码">
 
 <p align="center">
   <a href="https://filee.sh"><img src="docs/media/banner-en.jpg" alt="Filee: Drag. Drop. Converted." width="100%"></a>
