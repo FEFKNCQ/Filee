@@ -1,3 +1,12 @@
+
+
+> **🌐 国内 / 网络不佳时的下载备选（网盘镜像）**
+> 如果你在中国大陆，或访问 GitHub 出现**下载慢、速度为 0、`Failed to fetch`、`network error`、页面打不开**等情况，请**直接使用下方夸克网盘链接下载**，无需访问 GitHub：
+> **夸克网盘**：https://pan.quark.cn/s/8be3d7e03038 （微信扫码或点链接即可，含完整 release 文件）
+>
+> 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/Filee/releases) 或 [原项目 Releases](https://github.com/KnifeLemon/Filee/releases) 下载。
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
+
 <p align="center">
   <a href="https://filee.sh"><img src="docs/media/banner-en.jpg" alt="Filee: Drag. Drop. Converted." width="100%"></a>
 </p>
@@ -9,7 +18,7 @@
 
 <p align="center">
   <a href="https://filee.sh"><b>Website</b></a> ·
-  <a href="https://github.com/KnifeLemon/Filee/releases/latest"><b>Download</b></a> ·
+  <a href="https://github.com/M49P6BK/Filee/releases/latest"><b>Download</b></a> ·
   <a href="#install">Install</a> ·
   <a href="#command-line">Command line</a> ·
   <a href="#development">Development</a>
@@ -17,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/KnifeLemon/Filee/actions/workflows/ci.yml"><img src="https://github.com/KnifeLemon/Filee/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <a href="https://github.com/KnifeLemon/Filee/releases/latest"><img src="https://img.shields.io/github/v/release/KnifeLemon/Filee?color=7F77DD&label=release" alt="Latest release"></a>
+  <a href="https://github.com/M49P6BK/Filee/releases/latest"><img src="https://img.shields.io/github/v/release/KnifeLemon/Filee?color=7F77DD&label=release" alt="Latest release"></a>
   <a href="https://github.com/KnifeLemon/Filee/releases"><img src="https://img.shields.io/github/downloads/KnifeLemon/Filee/total?color=1D9E75" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-3C3489" alt="Windows 10 | 11">
   <img src="https://img.shields.io/badge/macOS%20%7C%20Linux-preview-534AB7" alt="macOS | Linux preview">
@@ -43,7 +52,7 @@
 
 ## Install
 
-Download from [Releases](https://github.com/KnifeLemon/Filee/releases/latest).
+Download from [Releases](https://github.com/M49P6BK/Filee/releases/latest).
 
 - **Windows 10/11**: run `Filee-<version>-win-Setup.exe`, or unzip the `win-Portable.zip` and run `Filee.exe`.
   Setup can add the Explorer menu, start at sign-in, the `filee` command and optional engines.
